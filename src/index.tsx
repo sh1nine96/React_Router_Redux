@@ -2,7 +2,9 @@ import React from "react";
 import ReactDOM from "react-dom";
 // import reportWebVitals from "./reportWebVitals";
 
-import el from "./implementation-of-routes/App-demo";
+// import el from "./implementation-of-routes/App-demo";
+import el from "./code-splitting/App-demo";
+
 ReactDOM.render(el, document.getElementById("root"));
 
 // If you want to start measuring performance in your app, pass a function

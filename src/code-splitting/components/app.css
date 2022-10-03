@@ -1,0 +1,12 @@
+.navigation-links a {
+  text-decoration: none;
+  padding: 0.5em;
+  /* font-weight: 900; */
+}
+
+.navigation-links a.active {
+  text-decoration: underline;
+  color: blueviolet;
+  font-weight: 700;
+  transform: scale(1.9);
+}
