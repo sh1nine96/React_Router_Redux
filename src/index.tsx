@@ -6,7 +6,10 @@ import ReactDOM from "react-dom";
 // import el from "./code-splitting/App-demo";
 
 // import el from "./component-life-cycle/lifecycleDemo-class-demo";
-import el from "./component-life-cycle/lifecycleDemo-function-demo";
+// import el from "./component-life-cycle/lifecycleDemo-function-demo";
+// import el from "./react-table/table-basic-demo";
+// import el from "./react-table/TableWithSorting-demo";
+import el from "./react-table/TableWithFiltering-demo";
 
 ReactDOM.render(el, document.getElementById("root"));
 
