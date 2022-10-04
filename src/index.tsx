@@ -9,7 +9,10 @@ import ReactDOM from "react-dom";
 // import el from "./component-life-cycle/lifecycleDemo-function-demo";
 // import el from "./react-table/table-basic-demo";
 // import el from "./react-table/TableWithSorting-demo";
-import el from "./react-table/TableWithFiltering-demo";
+// import el from "./react-table/TableWithFiltering-demo";
+
+// import el from "./higher-order-component/without-hoc-demo";
+import el from "./higher-order-components/with-hoc-demo";
 
 ReactDOM.render(el, document.getElementById("root"));
 
