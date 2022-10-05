@@ -1,0 +1,41 @@
+body {
+    margin-top: 200px;
+}
+
+#dashboard-panel {
+    position: fixed;
+    top: 20px;
+    left: 8px;
+    right: 8px;
+    height: 140px;
+    padding: 10px;
+    overflow-y: auto;
+    background-color: lightgray;
+    z-index: 2;
+    overflow: hidden;
+} 
+
+#terms-and-conditions {
+    position: relative;
+    z-index: 1;
+}
+
+.dialog {
+    position: fixed;
+    top: 100px;
+    left: 50%;
+    width: 400px;
+    padding: 10px;
+    border-radius: 5px;
+    margin-left: -200px;
+    background-color: #61dafb;
+    z-index: 1000;
+}
+
+.dialog-heading {
+    padding-bottom: 5px;
+    border-bottom: 1px solid white;
+}
+
+.text-center { text-align: center; }
+.text-justify { text-align: justify; }

@@ -12,7 +12,8 @@ import ReactDOM from "react-dom";
 // import el from "./react-table/TableWithFiltering-demo";
 
 // import el from "./higher-order-component/without-hoc-demo";
-import el from "./higher-order-components/with-hoc-demo";
+// import el from "./higher-order-components/with-hoc-demo";
+import el from "./portals/portals-demo";
 
 ReactDOM.render(el, document.getElementById("root"));
 
