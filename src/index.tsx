@@ -19,7 +19,9 @@ import ReactDOM from "react-dom";
 // import el from "./advanced-hooks/useCallback-demo";
 // import el from './advanced-hooks/Slideshow-useReducer-demo'
 
-import el from "./advanced-hooks/Slideshow-useReducer-demo";
+// import el from "./advanced-hooks/Slideshow-useReducer-demo";
+
+import el from "./context/SlideShow-class-demo";
 
 ReactDOM.render(el, document.getElementById("root"));
 
