@@ -14,7 +14,12 @@ import ReactDOM from "react-dom";
 // import el from "./higher-order-component/without-hoc-demo";
 // import el from "./higher-order-components/with-hoc-demo";
 // import el from "./portals/portals-demo";
-import el from "./error-boundary/ErrorBoundary-demo";
+// import el from "./error-boundary/ErrorBoundary-demo";
+
+// import el from "./advanced-hooks/useCallback-demo";
+// import el from './advanced-hooks/Slideshow-useReducer-demo'
+
+import el from "./advanced-hooks/Slideshow-useReducer-demo";
 
 ReactDOM.render(el, document.getElementById("root"));
 
